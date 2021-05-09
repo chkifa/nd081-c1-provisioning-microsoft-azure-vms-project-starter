@@ -1,1 +1,1 @@
-this my screenshot for this project
+here the screenshots of my CMS Article project (FlaskWebProject)
