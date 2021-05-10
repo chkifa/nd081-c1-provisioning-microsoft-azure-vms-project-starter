@@ -24,8 +24,8 @@ for this project my choice is app service because it is quick to deploy and does
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 To choose to pass the vm the following points must be considered:
 
-*If the application is excessively demanding in terms of performance, it is necessary to switch to the VM,
+- If the application is excessively demanding in terms of performance, it is necessary to switch to the VM,
 
-*If access to the application must be ensured with a greater level of availability, the choice of the VM makes sense here.
+- If access to the application must be ensured with a greater level of availability, the choice of the VM makes sense here.
 
-*If the storage of files (such as images on the current application) and database data requires more in terms of storage, switching to the VM is less expensive in the long term than the service app
+- If the storage of files (such as images on the current application) and database data requires more in terms of storage, switching to the VM is less expensive in the long term than the service app
