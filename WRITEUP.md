@@ -7,8 +7,8 @@
 
 | service        | cost           |scalability  |availability | workflow |
 | ----------- | ----------- | ----------- | ----------- |   ----------- |
-| VM     | VMs are more expensive :Service type	Custom name	Region	Description	Estimated monthly cost Virtual Machines		West US	1 B1S (1 vCPU, 1 GB RAM) x 730 Hours; Linux – CentOS; Pay as you go; 0 managed disks – S4, 100 transaction units; Inter Region transfer type, 5 GB outbound data transfer from West US to East Asia	$9,10 | more scalable than App service |can reach 99,99 (SLA)|requires more effort for management and administration|
-| App service     | App Service		West US	Basic Tier; 1 B1 (1 Core(s), 1.75 GB RAM, 10 GB Storage) x 730 Hours; Linux OS	$13,14      |   scalability limited with limited instance | less than VM MAX 99,95 in SLA|less managerial efforts, mush simpler and faster|
+| VM     | VMs , ex : Estimated monthly cost Virtual Machines	$9,10 | Requires new machines and installations |can reach 99,99 (SLA)|requires more effort for management and administration|
+| App service     | App Service	are more expensive, ex: 1 B1 (1 Core(s), 1.75 GB RAM, 10 GB Storage) x 730 Hours; Linux OS	$13,14      |   Automatic or manual scale based on needs | less than VM MAX 99,95 in SLA|less managerial efforts, mush simpler and faster|
 
 
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
