@@ -16,7 +16,6 @@
 app service
 
 - *Justify your choice*
-- 
 for this project my choice is app service because it is quick to deploy and does not require too much effort.
 
 ### Assess app changes that would change your decision.
